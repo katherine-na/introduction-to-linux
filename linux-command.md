@@ -24,3 +24,19 @@ El **software** (programa) se encarga de gestionar y usar el **hardware** (pieza
 
 ## Qué es Linux?
 Es un sistema operativo, formado por:
+
+| Nucleo (Kernel) | Interactua directamente con el hardware | Gestion de memoria, control de acceso al ordenador y permisos |
+| :------ | :------- | :------ | 
+| **Shell** | **Intérprete de lenguaje de comandos** | **Ejecuta los comandos** |
+| **Sistema de archivos** | **Unidad básica de organización de la información** | **Sin restricciones sobre nombre, extenciones, etc** |
+
+### Utilidad y aplicaciones.
+- Edición y procesamiento del texto.
+- Lenguajes y entornos de programación. 
+- Bases de datos.
+- Hojas de cálculo.
+- Navegación y edición web.
+- etc.
+
+## Distribuciones de Linux.
+En el nucleo Linux incluye determinados programas para satisfacer las necesidades.
