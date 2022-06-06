@@ -39,4 +39,4 @@ Es un sistema operativo, formado por:
 - etc.
 
 ## Distribuciones de Linux.
-En el nucleo Linux incluye determinados programas para satisfacer las necesidades.
+En el nucleo Linux incluye determinados programas para satisfacer las necesidades
