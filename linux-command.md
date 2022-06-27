@@ -1,4 +1,4 @@
-## Sistemas Operativos.
+<h1 align="center"> Sistemas Operativos. </h1>
 
 El **software** (programa) se encarga de gestionar y usar el **hardware** (piezas). Interactua con la red de circuitos y componentes del ordenador.
 **Ejemplos de Software**
