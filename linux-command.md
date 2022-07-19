@@ -450,7 +450,17 @@ bash-3.2$ pwd
 
 ## top
 
+Muestra información ordenada sobre los procesos
+![](https://www.booleanworld.com/wp-content/uploads/2017/09/top-threads-e1505141931579.png)
+
 ## nohup
+
+Ejecuta el proceso incluso después de cerrar sesión en el shell/terminal.
+
+```sh
+nohup command [command-argument ...]
+
+```
 
 ## Simbolos especiales.
 
@@ -466,6 +476,8 @@ contact.html
 ```
 
 ### Question Mark: ?
+
+Se usa como comodín, se usa normalmente en los nombres de archivo para hacer coincidir cadenas arbitrarias de caracteres.
 
 ### Pipe: |
 
@@ -495,7 +507,19 @@ calender
 
 ### Semi-Colon ;
 
-### Ampersand &
+Puede poner dos o más comandos en la misma línea separados por (;). Todos los argumentos antes de (;) serán tratados como un comando separado de todos los argumentos después de (;). Todos los comandos se ejecutarán secuencialmente esperando a que finalice cada comando antes de iniciar uno nuevo.
+
+```sh
+(example)
+```
+
+### Ampersand: &
+
+Cuando una línea de comando termina con &, el shell no espera a que termine el comando. Obtendrá su indicador de shell mientras el comando se ejecuta en segundo plano.
+
+```sh
+(example)
+```
 
 ## Variables del Shell
 
